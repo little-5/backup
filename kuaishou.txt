@@ -1,1 +1,1 @@
-https://api.ksapi.me
+http://api.ksapi.me
