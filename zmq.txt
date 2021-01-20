@@ -1,1 +1,1 @@
-https://app.izmq.me
+https://api.izmq.me
