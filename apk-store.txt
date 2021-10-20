@@ -1,0 +1,1 @@
+http://apk-store-api.dton.me/api.php
