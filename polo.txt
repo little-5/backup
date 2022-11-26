@@ -1,1 +1,1 @@
-http://bak.myb6api.com:8080/api.php
+http://bak2.myb6api.com:8080/api.php
