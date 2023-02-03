@@ -1,1 +1,1 @@
-https://api3.cggo.life/api.php
+https://api2.cggoapi.com/api.php
