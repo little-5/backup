@@ -1,1 +1,1 @@
-https://api4.zpcpjapi.com
+https://api4.zpcpjapi.com/api.php
