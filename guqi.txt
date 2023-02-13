@@ -1,1 +1,1 @@
-http://kkapi.qqsp01.com
+http://kkapi.qqsp01.com/api.php
