@@ -1,1 +1,1 @@
-https://api6.uappapi1.com/
+https://api6.uappapi1.com/api.php
