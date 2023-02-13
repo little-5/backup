@@ -1,1 +1,1 @@
-https://v1.yhyapi.xyz
+https://v1.yhyapi.xyz/api.php
