@@ -1,1 +1,1 @@
-http://2api1.91didiapi.net
+http://2api1.91didiapi.net/api.php
