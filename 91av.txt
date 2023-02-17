@@ -1,1 +1,1 @@
-http://backup.i91av.org
+http://backup.i91av.org/api.php
