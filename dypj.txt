@@ -1,1 +1,1 @@
-https://api3.dyweb.me
+https://api3.dyweb.me/api.php
