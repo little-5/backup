@@ -1,1 +1,1 @@
-http://api.ksapi.me
+http://api.ksapi.me/api.php
