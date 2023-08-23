@@ -1,1 +1,1 @@
-https://api3.chgapic.com/api.php
+https://api3.chgapi3.com/api.php
