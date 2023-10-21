@@ -1,1 +1,1 @@
-https://api3.awjqapi3.com/api.php
+https://api1.awjqapi1.com/api.php
