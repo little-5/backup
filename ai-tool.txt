@@ -1,1 +1,1 @@
-https://bpi4.pqbpiii.com/
+https://bpi4.pqbpiii.com/api.php
