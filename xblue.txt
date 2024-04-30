@@ -1,1 +1,1 @@
-http://bak2.blueapi001.info:8080/api.php
+http://bak.zsfsdoyt.com:8080/api.php
