@@ -1,1 +1,1 @@
-https://space7.yiqiapi01.com/api.php
+https://sapi02.bv1ga.com/api.php
