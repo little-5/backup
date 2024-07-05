@@ -1,1 +1,1 @@
-https://api2.qlmyqdcx.com/api.php
+https://bak.qlmyqdcx.com/api.php
