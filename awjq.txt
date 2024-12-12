@@ -1,1 +1,1 @@
-https://d2bxlcvme0ldc2.cloudfront.net/api.php
+https://bpi3.voleiava.com/api.php
