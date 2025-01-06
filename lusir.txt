@@ -1,1 +1,1 @@
-https://api.hichatapi.info
+https://api.kwpmdat.net
