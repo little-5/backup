@@ -1,1 +1,1 @@
-https://api3.tianyaapi3.com/api.php
+https://api3.iatxthx.net/api.php
