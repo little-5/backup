@@ -1,1 +1,1 @@
-http://bak.fiftymvapi.org:8080/api.php
+https://bak.ieaasiz.xyz/api.php
