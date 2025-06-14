@@ -1,1 +1,1 @@
-https://bp.haijiaointernational.info
+https://bp.haijiaointernational.info/api.php
